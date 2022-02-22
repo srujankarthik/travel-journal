@@ -1,6 +1,5 @@
 # Travel Journal
 
-## About
+## Static website built w/ use of components and props.\
 
-Static website built w/ use of components and props.
-PRCT using components & props in react.
+## PRCT using components & props in react.
