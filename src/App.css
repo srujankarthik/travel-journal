@@ -19,3 +19,40 @@
 nav > img {
   margin: 10;
 }
+
+.card {
+  padding: 50px;
+  margin: auto;
+  width: 65%;
+  font-size: 1.2em;
+  display: flex;
+}
+
+.card-image {
+  width: 40%;
+  border-radius: 9px;
+}
+
+.card-components {
+  display: flex;
+  flex-direction: column;
+  padding: 25px;
+}
+
+.card-location {
+  display: flex;
+  gap: 15px;
+}
+
+.card-title {
+  font-size: 1.9em;
+  padding-top: 5px;
+}
+
+.card-dates {
+  padding-top: 40px;
+}
+
+.card-description {
+  padding-top: 20px;
+}
