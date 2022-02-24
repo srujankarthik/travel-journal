@@ -6,3 +6,16 @@
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
 }
+
+.navBar {
+  padding: 20px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  background-color: #f55a5a;
+  color: #ffffff;
+}
+
+nav > img {
+  margin: 10;
+}

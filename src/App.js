@@ -15,7 +15,6 @@ function App() {
   return (
     <div className="App">
       <Navbar />
-      <h1>init setup</h1>
       {cards}
     </div>
   );
