@@ -9,7 +9,7 @@ function App() {
   const cards = data.map((item) => {
     return <Card
       key={item.id}
-      image={item.imageUrl}
+      imageUrl={item.imageUrl}
       location={item.location}
       googleMapsUrl={item.googleMapsUrl}
       title={item.title}
@@ -22,7 +22,7 @@ function App() {
     <div className="App">
       <Navbar />
       <h1>init setup</h1>
-      <Card />
+      {cards}
     </div>
   );
 }
